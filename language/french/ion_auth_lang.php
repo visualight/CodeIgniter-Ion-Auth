@@ -47,6 +47,14 @@ $lang['update_unsuccessful'] = 'Impossible de mettre à jour le compte utilisate
 $lang['delete_successful'] = 'Utilisateur supprimé';
 $lang['delete_unsuccessful'] = 'Impossible de supprimer l\'utilisateur';
 
+// Groups added by visualight
+$lang['group_creation_successful']  = 'Groupe créé avec succès';
+$lang['group_already_exists']       = 'Le nom du groupe existe déjà';
+$lang['group_update_successful']    = 'Groupe mis à jour avec succès';
+$lang['group_delete_successful']    = 'Groupe supprimé avec succès';
+$lang['group_delete_unsuccessful']  = 'Impossible de supprimer le groupe';
+$lang['group_name_required'] 		= 'Le nom du groupe est un champ obligatoire';
+
 // Email Subjects - Translated by visualight
 $lang['email_forgotten_password_subject']    = 'Réinitialisation de votre mot de passe';
 $lang['email_new_password_subject']          = 'Nouveau Mot de Passe';
