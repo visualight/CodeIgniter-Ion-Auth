@@ -39,6 +39,7 @@ $lang['login_successful'] = 'Connecté avec succès';
 $lang['login_unsuccessful'] = 'Erreur lors de la connexion';
 $lang['login_unsuccessful_not_active'] = 'Ce compte est inactif';
 $lang['logout_successful'] = 'Déconnexion effectuée avec succès';
+$lang['login_timeout'] = 'Accès temporairement suspendu. Réessayez plus tard.'; // Added by visualight
   
 // Account Changes
 $lang['update_successful'] = 'Compte utilisateur mis à jour avec succès';
@@ -46,7 +47,7 @@ $lang['update_unsuccessful'] = 'Impossible de mettre à jour le compte utilisate
 $lang['delete_successful'] = 'Utilisateur supprimé';
 $lang['delete_unsuccessful'] = 'Impossible de supprimer l\'utilisateur';
 
-// Email Subjects - TODO Please Translate
-$lang['email_forgotten_password_subject']    = 'Forgotten Password Verification';
-$lang['email_new_password_subject']          = 'New Password';
-$lang['email_activation_subject']            = 'Account Activation';
+// Email Subjects - Translated by visualight
+$lang['email_forgotten_password_subject']    = 'Réinitialisation de votre mot de passe';
+$lang['email_new_password_subject']          = 'Nouveau Mot de Passe';
+$lang['email_activation_subject']            = 'Activation de votre accès membre';
